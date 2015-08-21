@@ -6,7 +6,7 @@ Author: Systemo
 Author URI: http://systemo.biz
 GitHub Plugin URI: https://github.com/systemo-biz/reports-s
 GitHub Branch: master
-Version: 20150711
+Version: 20150821
 */
 
 include_once 'inc/model.php';
