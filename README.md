@@ -18,3 +18,8 @@ Reports (KPI, indicators, tables, statistics) for WordPress
 
 
 - `cp_array_to_pivot_table()` - функция добавлена на удаление. В новых версиях ее не будет.
+
+
+# Пример свода массива в таблицу (pivot table, кросстабуляция)
+
+https://gist.github.com/yumashev/9e4e61d58a8ebf1d7882
