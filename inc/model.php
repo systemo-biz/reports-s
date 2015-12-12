@@ -30,7 +30,7 @@ function register_report_post_type_cp(){
    $supports = array(
     'editor',
     'title',
-    'revisions'
+    'revisions',
     'comments'
      );
 
